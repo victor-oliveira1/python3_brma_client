@@ -1,6 +1,7 @@
 #!/bin/python3
 #Cliente BRMA escrito em python3.
 #TODO: Implementar a criptografia do applet: CryptP.class
+#Inserir endereço do servidor, usuário e senha
 #victor.oliveira@gmx.com
 
 from urllib.request import urlopen
